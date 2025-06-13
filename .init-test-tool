@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/heartvibe-analyzer-39027-2111b890/heartvibe_analyzer"
+}
